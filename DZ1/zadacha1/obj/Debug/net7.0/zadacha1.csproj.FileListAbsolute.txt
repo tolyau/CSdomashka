@@ -1,0 +1,14 @@
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.AssemblyInfoInputs.cache
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.AssemblyInfo.cs
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\bin\Debug\net7.0\zadacha1.exe
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\bin\Debug\net7.0\zadacha1.deps.json
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\bin\Debug\net7.0\zadacha1.runtimeconfig.json
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\bin\Debug\net7.0\zadacha1.dll
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\bin\Debug\net7.0\zadacha1.pdb
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.dll
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\refint\zadacha1.dll
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.pdb
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\zadacha1.genruntimeconfig.cache
+C:\Users\jurba\Desktop\GeekBr\C#\CSdomashka\DZ1\zadacha1\obj\Debug\net7.0\ref\zadacha1.dll
